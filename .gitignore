@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+.env (API keys)
+knenv/
+*.DS_Store
+.idea/ or .vscode/
